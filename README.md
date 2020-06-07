@@ -12,12 +12,12 @@
 
 ## Mobile
 
-![Screenshot_2020-06-07-11-00-17-082_host exp exponent](https://user-images.githubusercontent.com/52502727/83972476-6033ba00-a8ae-11ea-870d-d81479b2dd2a.jpg)
+![Screenshot_2020-06-07-11-00-17-082_host exp exponent](https://user-images.githubusercontent.com/52502727/83972476-6033ba00-a8ae-11ea-870d-d81479b2dd2a.jpg=100x20)
 
 
-![Screenshot_2020-06-07-11-01-43-371_host exp exponent](https://user-images.githubusercontent.com/52502727/83972483-6de93f80-a8ae-11ea-8420-661eedb37cac.jpg)
+![Screenshot_2020-06-07-11-01-43-371_host exp exponent](https://user-images.githubusercontent.com/52502727/83972483-6de93f80-a8ae-11ea-8420-661eedb37cac.jpg=100x20)
 
-![Screenshot_2020-06-07-11-01-50-641_host exp exponent](https://user-images.githubusercontent.com/52502727/83972485-73468a00-a8ae-11ea-8f2a-cf8d4a924187.jpg)
+![Screenshot_2020-06-07-11-01-50-641_host exp exponent](https://user-images.githubusercontent.com/52502727/83972485-73468a00-a8ae-11ea-8f2a-cf8d4a924187.jpg=100x20)
 
 
 
