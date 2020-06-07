@@ -14,7 +14,9 @@
 
 * Node.js
 * ReactJS
+* React Native
 * Typescript
+
 
 
 Made with 💜 by [Arthur Ramires](https://github.com/arthurramires) 🚀
